@@ -1,0 +1,6 @@
+str=9999
+int=9999
+agi=9999
+dex=9999
+weapon1=god knuckle
+weapon2=none

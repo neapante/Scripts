@@ -1,0 +1,6 @@
+str=0
+int=99999
+agi=0
+dex=22
+weapon1=magical staff
+weapon2=shield

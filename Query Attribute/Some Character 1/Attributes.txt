@@ -1,0 +1,6 @@
+str=23
+int=25
+agi=10
+dex=222
+weapon1=bow
+weapon2=none
